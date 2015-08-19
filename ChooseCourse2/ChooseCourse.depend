@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1335691284 source:c:\documents and settings\administrator\桌面\choosecourse\course.cpp
+	"Course.h"
+	<string>
+
+1335623484 c:\documents and settings\administrator\桌面\choosecourse\course.h
+	<string>
+	<iostream>
+
+1333256274 source:c:\documents and settings\administrator\桌面\choosecourse\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1334298612 c:\documents and settings\administrator\桌面\choosecourse\date.h
+	<iostream>
+
+1335507866 source:c:\documents and settings\administrator\桌面\choosecourse\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1335507832 c:\documents and settings\administrator\桌面\choosecourse\electivecourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335507140 source:c:\documents and settings\administrator\桌面\choosecourse\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1335507920 c:\documents and settings\administrator\桌面\choosecourse\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1336716294 source:c:\documents and settings\administrator\桌面\choosecourse\student.cpp
+	"Student.h"
+
+1335618574 c:\documents and settings\administrator\桌面\choosecourse\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<typeinfo>
+	<iostream>
+
+1336720728 source:c:\documents and settings\administrator\桌面\choosecourse\main.cpp
+	<iostream>
+	"Control.h"
+	"Student.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+
+1336716238 c:\documents and settings\administrator\桌面\choosecourse\control.h
+	<iostream>
+	"Control.h"
+	"Student.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<fstream>
+
+1336720660 source:c:\documents and settings\administrator\桌面\choosecourse\control.cpp
+	"Control.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1335691284 source:c:\users\lixu\desktop\choosecourse\course.cpp
+	"Course.h"
+	<string>
+
+1335623484 c:\users\lixu\desktop\choosecourse\course.h
+	<string>
+	<iostream>
+
+1333256274 source:c:\users\lixu\desktop\choosecourse\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1334298612 c:\users\lixu\desktop\choosecourse\date.h
+	<iostream>
+
+1335507866 source:c:\users\lixu\desktop\choosecourse\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1335507832 c:\users\lixu\desktop\choosecourse\electivecourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335507140 source:c:\users\lixu\desktop\choosecourse\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1335507920 c:\users\lixu\desktop\choosecourse\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1336720728 source:c:\users\lixu\desktop\choosecourse\main.cpp
+	<iostream>
+	"Control.h"
+	"Student.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+
+1336716238 c:\users\lixu\desktop\choosecourse\control.h
+	<iostream>
+	"Control.h"
+	"Student.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<fstream>
+
+1336728871 c:\users\lixu\desktop\choosecourse\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<typeinfo>
+	<iostream>
+
+1333256274 source:c:\users\lixu\我的文档2\choosecourse2\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1334298612 c:\users\lixu\我的文档2\choosecourse2\date.h
+	<iostream>
+
+1335507866 source:c:\users\lixu\我的文档2\choosecourse2\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1335507832 c:\users\lixu\我的文档2\choosecourse2\electivecourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335623484 c:\users\lixu\我的文档2\choosecourse2\course.h
+	<string>
+	<iostream>
+
+1335507140 source:c:\users\lixu\我的文档2\choosecourse2\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1335507920 c:\users\lixu\我的文档2\choosecourse2\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1336833634 source:c:\users\lixu\我的文档2\choosecourse2\course.cpp
+	"Course.h"
+	<string>
+

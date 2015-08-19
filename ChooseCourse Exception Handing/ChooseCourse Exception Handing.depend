@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1338043482 source:c:\users\lixu\我的文档2\choosecourse exception handing\course.cpp
+	"Course.h"
+	<string>
+
+1338044232 c:\users\lixu\我的文档2\choosecourse exception handing\course.h
+	<string>
+	<iostream>
+	"MyCourseException.h"
+
+1338128242 source:c:\users\lixu\我的文档2\choosecourse exception handing\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+	"MyDateException.h"
+
+1338128227 c:\users\lixu\我的文档2\choosecourse exception handing\date.h
+	"MyDateException.h"
+	<iostream>
+
+1337959938 source:c:\users\lixu\我的文档2\choosecourse exception handing\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1337959938 c:\users\lixu\我的文档2\choosecourse exception handing\electivecourse.h
+	"Course.h"
+	"MyCourseException.h"
+	<iostream>
+	<string>
+
+1337960005 source:c:\users\lixu\我的文档2\choosecourse exception handing\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1337960005 c:\users\lixu\我的文档2\choosecourse exception handing\obligatorycourse.h
+	"Course.h"
+	"MyCourseException.h"
+	<iostream>
+	<string>
+
+1338126065 source:c:\users\lixu\我的文档2\choosecourse exception handing\student.cpp
+	"Student.h"
+	<iomanip>
+	"string.h"
+	"MyStudentException.h"
+
+1338126065 c:\users\lixu\我的文档2\choosecourse exception handing\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"MyStudentException.h"
+	<typeinfo>
+	<iostream>
+
+1336879384 source:c:\users\lixu\我的文档2\choosecourse exception handing\main.cpp
+	"Control.h"
+
+1338044232 c:\users\lixu\我的文档2\choosecourse exception handing\control.h
+	<iostream>
+	"Student.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<fstream>
+
+1338128745 source:c:\users\lixu\我的文档2\choosecourse exception handing\control.cpp
+	"Control.h"
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1338041635 c:\users\lixu\我的文档2\choosecourse exception handing\mydateexception.h
+	"MyExceptionHanding.h"
+
+1338045132 c:\users\lixu\我的文档2\choosecourse exception handing\myexceptionhanding.h
+
+1338041704 c:\users\lixu\我的文档2\choosecourse exception handing\mycourseexception.h
+	"MyExceptionHanding.h"
+
+1338041704 c:\users\lixu\我的文档2\choosecourse exception handing\mystudentexception.h
+	"MyExceptionHanding.h"
+
+1338127365 source:c:\users\lixu\我的文档2\choosecourse exception handing\mycourseexception.cpp
+	"MyCourseException.h"
+
+1338042071 source:c:\users\lixu\我的文档2\choosecourse exception handing\mydateexception.cpp
+	"MyDateException.h"
+
+1338045132 source:c:\users\lixu\我的文档2\choosecourse exception handing\myexceptionhanding.cpp
+	"MyExceptionHanding.h"
+
+1338042169 source:c:\users\lixu\我的文档2\choosecourse exception handing\mystudentexception.cpp
+	"MyStudentException.h"
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1333256274 source:g:\student\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1333255972 g:\student\date.h
+	<iostream>
+
+1333261218 source:g:\student\student.cpp
+	"Student.h"
+	"Course.h"
+	<cstring>
+	"Date.h"
+	<iostream>
+
+1333260102 g:\student\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1333260570 g:\student\course.h
+	<string>
+	<iostream>
+
+1333262928 source:g:\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1333262884 source:g:\student\course.cpp
+	"Course.h"
+	<string>
+

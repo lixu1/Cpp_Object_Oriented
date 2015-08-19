@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1333256274 source:c:\documents and settings\administrator\桌面\student\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1334298612 c:\documents and settings\administrator\桌面\student\date.h
+	<iostream>
+
+1335507866 source:c:\documents and settings\administrator\桌面\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1335507832 c:\documents and settings\administrator\桌面\student\electivecourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335508752 c:\documents and settings\administrator\桌面\student\course.h
+	<string>
+	<iostream>
+
+1335507140 source:c:\documents and settings\administrator\桌面\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1335507920 c:\documents and settings\administrator\桌面\student\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335509972 source:c:\documents and settings\administrator\桌面\student\student.cpp
+	"Student.h"
+
+1335509930 c:\documents and settings\administrator\桌面\student\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<iostream>
+
+1335507344 source:c:\documents and settings\administrator\桌面\student\course.cpp
+	"Course.h"
+	<string>
+
+1335507962 source:c:\documents and settings\administrator\桌面\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1335511380 source:c:\documents and settings\administrator\桌面\student\control.cpp
+	"Control.h"
+
+1335512264 c:\documents and settings\administrator\桌面\student\control.h
+	"Student.h"
+	<iostream>
+
+1333256274 source:c:\users\lixu\desktop\student\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1334298612 c:\users\lixu\desktop\student\date.h
+	<iostream>
+
+1335507866 source:c:\users\lixu\desktop\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1335507832 c:\users\lixu\desktop\student\electivecourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335508752 c:\users\lixu\desktop\student\course.h
+	<string>
+	<iostream>
+
+1335507140 source:c:\users\lixu\desktop\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1335507920 c:\users\lixu\desktop\student\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1335507962 source:c:\users\lixu\desktop\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1335582247 c:\users\lixu\desktop\student\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<iostream>
+

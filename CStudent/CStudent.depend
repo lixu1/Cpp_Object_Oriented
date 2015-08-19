@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1331881908 source:c:\documents and settings\administrator\桌面\cstudent\cstudent.cpp
+	"cstudent.h"
+	<cstring>
+	"Date.h"
+
+1331879458 c:\documents and settings\administrator\桌面\cstudent\cstudent.h
+	"Date.h"
+
+1331882160 c:\documents and settings\administrator\桌面\cstudent\date.h
+
+1331882418 source:c:\documents and settings\administrator\桌面\cstudent\main.cpp
+	<iostream>
+	"cstudent.h"
+
+1331879610 source:c:\documents and settings\administrator\桌面\cstudent\date.cpp
+	"Date.h"
+	<iostream>
+

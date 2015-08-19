@@ -1,0 +1,48 @@
+# Project: student-dev
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = Control.o Course.o Date.o ElectiveCourse.o main.o ObligatoryCourse.o Student.o $(RES)
+LINKOBJ  = Control.o Course.o Date.o ElectiveCourse.o main.o ObligatoryCourse.o Student.o $(RES)
+LIBS =  -L"lib"  
+INCS =  -I"include" 
+CXXINCS =  -I"lib/gcc/mingw32/3.4.2/include"  -I"include/c++/3.4.2/backward"  -I"include/c++/3.4.2/mingw32"  -I"include/c++/3.4.2"  -I"include" 
+BIN  = student-dev.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before student-dev.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "student-dev.exe" $(LIBS)
+
+Control.o: Control.cpp
+	$(CPP) -c Control.cpp -o Control.o $(CXXFLAGS)
+
+Course.o: Course.cpp
+	$(CPP) -c Course.cpp -o Course.o $(CXXFLAGS)
+
+Date.o: Date.cpp
+	$(CPP) -c Date.cpp -o Date.o $(CXXFLAGS)
+
+ElectiveCourse.o: ElectiveCourse.cpp
+	$(CPP) -c ElectiveCourse.cpp -o ElectiveCourse.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+ObligatoryCourse.o: ObligatoryCourse.cpp
+	$(CPP) -c ObligatoryCourse.cpp -o ObligatoryCourse.o $(CXXFLAGS)
+
+Student.o: Student.cpp
+	$(CPP) -c Student.cpp -o Student.o $(CXXFLAGS)

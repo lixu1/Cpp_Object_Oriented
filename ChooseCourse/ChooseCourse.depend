@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1333256274 source:c:\users\lixu\我的文档2\choosecourse\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1334298612 c:\users\lixu\我的文档2\choosecourse\date.h
+	<iostream>
+
+1334300740 source:c:\users\lixu\我的文档2\choosecourse\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334300964 c:\users\lixu\我的文档2\choosecourse\electivecourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1333260570 c:\users\lixu\我的文档2\choosecourse\course.h
+	<string>
+	<iostream>
+
+1334300436 source:c:\users\lixu\我的文档2\choosecourse\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1334300352 c:\users\lixu\我的文档2\choosecourse\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1337941576 source:c:\users\lixu\我的文档2\choosecourse\student.cpp
+	"Student.h"
+	"string.h"
+
+1337941370 c:\users\lixu\我的文档2\choosecourse\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<iostream>
+	<string>
+
+1334459772 source:c:\users\lixu\我的文档2\choosecourse\main.cpp
+	<iostream>
+	"Student.h"
+
+1333262884 source:c:\users\lixu\我的文档2\choosecourse\course.cpp
+	"Course.h"
+	<string>
+
